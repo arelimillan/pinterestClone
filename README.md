@@ -1,4 +1,2 @@
-# pinterestClone
-##clon de pinterest
-###encabezado 3
+# Clon de pinteres con HTML y CSS
 
