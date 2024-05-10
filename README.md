@@ -1,2 +1,4 @@
 # pinterestClone
-clon de pinterest
+##clon de pinterest
+###encabezado 3
+
