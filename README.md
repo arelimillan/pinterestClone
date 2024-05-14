@@ -11,5 +11,7 @@ Se enfoca en replicar la apariencia visual de Pinterest, ofreciendo una experien
 + **CSS3:** Para el diseño y el estilo, incluyendo _flexbox_ para un diseño responsivo y efectos de __
 + **Google fonts:** Para fuentes personalizadas.
 ### Vista Previa del proyecto
-
+----Pendiente----
+###Contacto
+Si te gustaría invitarme a colaborar en un proyecto, escríbeme por eMail: ing.areli.millan.meza@gmail.com o en mis redes sociales [areli.millan.meza](https://www.facebook.com/Areli.Millan.Meza?mibextid=ZbWKwL)
 
